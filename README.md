@@ -12,7 +12,6 @@ Currently focused on learning practical infosec and searching for an idea for ne
 
 - Python, JavaScript, Linux  
 - Networking, CLI tools, low-level troubleshooting  
-- Cryptocurrencies & wallet security  
 - CTFs, vulnerability analysis, hands-on challenges
 
 ## 📬 Contact
